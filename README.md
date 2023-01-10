@@ -6,4 +6,3 @@ This repository is built step by step in the tutorial.
 It now includes steps for Github.
 Another change to readme file.
 one more change
-today I am changing something in github.
